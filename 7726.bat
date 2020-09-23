@@ -14,7 +14,7 @@ IF %ERRORLEVEL% EQU 0 goto be
 
 ::modsquad.exe FortniteClient-Win64-Shipping.exe d2d1.dll fourteennight.dll
 ::modsquad.exe FortniteClient-Win64-Shipping.exe d3d11.dll fn.dll
-modmap.exe FortniteClient-Win64-Shipping.exe dxgi.dll Fortnite.dll
+modmap.exe FortniteClient-Win64-Shipping.exe dxgi.dll FortniteCheatSRCUpdateEveryUpdateVisual9999.dll
 ::modmapSIL.exe r5apex.exe dxgi.dll ApexInternal.dll
 
 
